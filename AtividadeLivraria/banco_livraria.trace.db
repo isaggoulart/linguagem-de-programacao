@@ -1,0 +1,12 @@
+2024-09-10 17:51:34.954487-03:00 jdbc[5]: exception
+org.h2.jdbc.JdbcSQLSyntaxErrorException: Table "LIVROS" not found; SQL statement:
+select * from livros [42102-232]
+2024-09-10 17:52:13.667935-03:00 jdbc[5]: exception
+org.h2.jdbc.JdbcSQLSyntaxErrorException: Table "LIVROS" not found; SQL statement:
+SELECT * from livros [42102-232]
+2024-09-10 18:01:13.509149-03:00 jdbc[5]: exception
+org.h2.jdbc.JdbcSQLSyntaxErrorException: Table "LIVROS" not found; SQL statement:
+select * from livros [42102-232]
+2024-09-10 18:12:48.868821-03:00 jdbc[5]: exception
+org.h2.jdbc.JdbcSQLSyntaxErrorException: Table "LIVROS" not found; SQL statement:
+select * from livros [42102-232]
