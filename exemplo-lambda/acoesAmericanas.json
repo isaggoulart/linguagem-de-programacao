@@ -1,0 +1,32 @@
+[
+  {
+    "symbol": "AAPL",
+    "companyName": "Apple Inc.",
+    "price": 145.30,
+    "volume": 98765432,
+    "date": "2024-10-01",
+    "marketCap": "2.43T",
+    "sector": "Technology",
+    "CEO": "Tim Cook"
+  },
+  {
+    "symbol": "MSFT",
+    "companyName": "Microsoft Corporation",
+    "price": 255.50,
+    "volume": 67543210,
+    "date": "2024-10-01",
+    "marketCap": "2.15T",
+    "sector": "Technology",
+    "CEO": "Satya Nadella"
+  },
+  {
+    "symbol": "GOOGL",
+    "companyName": "Alphabet Inc.",
+    "price": 2750.80,
+    "volume": 12345678,
+    "date": "2024-10-01",
+    "marketCap": "1.86T",
+    "sector": "Communication Services",
+    "CEO": "Sundar Pichai"
+  }
+]
